@@ -6,7 +6,7 @@
 
 ## 🌟 About Me  
 - 🎓 **MS in Business Analytics @ USC**  
-- 📈 Former **Data Analyst Intern @ LA Capital Management & ComplyAI**  
+- 📈 Former **Qauntitative Research Analyst @ LA Capital Management**  
 - 💼 Experienced in **data analytics, ETL, machine learning, and BI dashboards**  
 - 🏆 Built **predictive models** and **data-driven strategies** for finance, marketing, and operations  
 - 🚀 Exploring **deep learning & AI applications in business insights**  
@@ -15,7 +15,7 @@
 🔹 **Languages:** Python, SQL, R  
 🔹 **Data Analysis:** Pandas, NumPy, Scikit-learn, Statsmodels  
 🔹 **Visualization:** Power BI, Matplotlib, Seaborn  
-🔹 **Big Data & Cloud:** Databricks, Azure (learning)  
+🔹 **Big Data & Cloud:** Databricks, Azure  
 🔹 **Machine Learning:** Regression, Clustering, PCA  
 🔹 **ETL & Databases:** SQL, PySpark, Atlas Platform  
 
@@ -26,6 +26,6 @@
 
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yi-chieh-kuo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/belladatalab)  
 
-🚀 **Currently:** Expanding my GitHub with exciting data projects! Stay tuned!  
+
