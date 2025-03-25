@@ -20,9 +20,9 @@
 🔹 **ETL & Databases:** SQL, PySpark, Atlas Platform  
 
 ## 📌 Featured Projects  
-🔹 [📊 Spotify Popularity Analysis](https://github.com/your-repo) - **PCA & Regression on 17,841 songs**  
-🔹 [📉 KPI Surprise & Stock Returns](https://github.com/your-repo) - **Built a long-short investment strategy**  
-🔹 [📈 Churn Prediction Model](https://github.com/your-repo) - **Customer segmentation & retention analysis**  
+🔹 [📈 Lead Quality Optimization (Aarki Case)](https://github.com/belladatalab/lead-quality-optimization-aarki)  
+ Modeled lead quality drivers using ML, improved ROI from 35.17% to 45.45%, supporting a 10% CPL uplift
+ 
 
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yi-chieh-kuo/)  
