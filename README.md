@@ -21,7 +21,8 @@
 
 ## 📌 Featured Projects  
 🔹 [📈 Lead Quality Optimization (Aarki Case)](https://github.com/belladatalab/lead-quality-optimization-aarki)  
- Modeled lead quality drivers using ML, improved ROI from 35.17% to 45.45%, supporting a 10% CPL uplift
+ Modeled **lead quality drivers** using **machine learning**, improved **ROI from 35.17% to 45.45%**, supporting a **10% CPL uplift**
+
  
 
 ## 📬 Let's Connect!  
