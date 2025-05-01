@@ -24,8 +24,7 @@
  Modeled **lead quality drivers** using **machine learning**, improved **ROI from 35.17% to 45.45%**, supporting a **10% CPL uplift**
 
 🔹 [🎵 Spotify Song Popularity Analysis](https://github.com/belladatalab/spotify-song-popularity-analysis)  
- Used **PCA**, **regression**, and trend forecasting on 17K+ tracks to explore if **shorter songs are more popular**,  
- revealing a statistically significant negative correlation and predicting avg. duration to drop below **3 minutes by 2040**
+ Used **PCA**, **regression**, and trend forecasting on 17K+ tracks to explore if **shorter songs are more popular**, revealing a statistically significant negative correlation and predicting avg. duration to drop below **3 minutes by 2040**
 
 
  
