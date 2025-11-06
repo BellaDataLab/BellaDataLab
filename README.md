@@ -26,6 +26,8 @@
 🔹 [🎵 Spotify Song Popularity Analysis](https://github.com/belladatalab/spotify-song-popularity-analysis)  
  Used **PCA**, **regression**, and trend forecasting on 17K+ tracks to explore if **shorter songs are more popular**, revealing a statistically significant negative correlation and predicting avg. duration to drop below **3 minutes by 2040**
 
+🔹 [🧮 SaaS Operations Modeling – Revenue & Recruiting](https://github.com/belladatalab/HockeyStack-Case-Study)  
+ Built a **scenario-based capacity model** to hit **$30M new ARR** under varying attainment/attrition assumptions, and designed a **recruiting team plan** (5 recruiters + sourcer + coordinator) to support **50 annual hires** with time-to-fill and cost-per-hire controls
 
  
 
