@@ -5,6 +5,7 @@
 💡 Love exploring **data visualization, predictive modeling, and statistical analysis**  
 
 ## 🌟 About Me  
+- 🎬 Data & Analytics @ NBCUniversal
 - 🎓 **MS in Business Analytics @ USC**  
 - 📈 Former **Qauntitative Research Analyst @ LA Capital Management**  
 - 💼 Experienced in **data analytics, ETL, machine learning, and BI dashboards**  
@@ -20,6 +21,9 @@
 🔹 **ETL & Databases:** SQL, PySpark, Atlas Platform  
 
 ## 📌 Featured Projects  
+🔹 [📈 Equity Research Platform](https://github.com/belladatalab/Equity-Research-Dashboard)  
+ Built a full-stack equity research dashboard integrating **real-time market data**, **fundamental analysis**, **analyst ratings**, and **financial statements** through Flask, yFinance, and Chart.js, streamlining stock research into a single interactive platform.
+ 
 🔹 [📈 Lead Quality Optimization (Aarki Case)](https://github.com/belladatalab/lead-quality-optimization-aarki)  
  Modeled **lead quality drivers** using **machine learning**, improved **ROI from 35.17% to 45.45%**, supporting a **10% CPL uplift**
 
